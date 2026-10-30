@@ -1,0 +1,8 @@
+.env
+venv/
+__pycache__/
+data/
+data.zip
+sessions/
+reports/
+session_log.csv

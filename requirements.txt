@@ -1,0 +1,11 @@
+tensorflow==2.21.0
+opencv-python<5
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+streamlit
+plotly
+google-genai
+python-dotenv
